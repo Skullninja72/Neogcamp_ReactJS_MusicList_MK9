@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #fd6107;
+  padding: 100px;
+  width: 74%;
+  color: rgb(138, 11, 11);
+}
+input {
+  padding: 1rem;
+  width: 80%;
+}

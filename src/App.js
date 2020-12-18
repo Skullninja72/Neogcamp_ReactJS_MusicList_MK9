@@ -63,6 +63,7 @@ export default function App() {
         {Object.keys(musicLibrary).map((genre) => (
           <button
             onClick={() => genreClickHandler(genre)}
+            key={genre}
             style={{
               cursor: "pointer",
               background: "#E5E7EB",
